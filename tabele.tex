@@ -1,0 +1,158 @@
+\documentclass[11pt]{article}
+\usepackage{caption}
+\usepackage[MeX]{polski}
+\begin{document}
+
+\begin{table}[h]
+\centering
+\begin{tabular}{c|c c c}
+\hline
+\hline
+Pacjent&Ból brzucha&Temperatura ciała&Operacja\\
+\hline
+u1&Mocny&Wysoka&Tak\\
+u2&Średni&Wysoka&Tak\\
+u3&Mocny&Średnia&Tak\\
+u4&Mocny&Niska&Tak\\
+u5&Średni&Średnia&Tak\\
+u6&Średni&Średnia&Nie\\
+u7&Mały&Wysoka&Nie\\
+u8&Mały&Niska&Nie\\
+u9&Mocny&Niska&Nie\\
+u10&Mały&Średnia&Nie\\
+\hline
+\hline
+\end{tabular}
+\end{table}
+\newpage
+\section{bramki logiczne}
+\centering
+\begin{itemize}
+\item Bramka NOT pod względem działania jest najprostsza ze wszystkich tu opisanych (i ogólnie wśród wszystkich wykorzystywanych bramek logicznych). Jej działanie polega na negacji (odwróceniu) sygnału, który otrzyma na wejściu.
+\begin{table}[h]
+\centering
+\begin{tabular}{|c|c|}
+\hline
+wejście&1\\
+wyjście&0\\
+\hline
+\hline
+wejście&0\\
+wyjście&1\\
+\hline
+\end{tabular}
+\end{table}
+\item Przy działaniu bramki logicznej AND wynik 1 można otrzymać tylko w przypadku, kiedy oba wejścia będą równały się jedynce. Tego typu bramki mogą występować w wersjach trzywejściowych, czterowejściowych oraz o znacznie większej liczbie wejść. Należy pamiętać, że niezależnie od tego, ile wejść będzie znajdowało się w stanie wysokim – stan wysoki na wyjściu będzie możliwy tylko w przypadku, jeżeli na każdym wejściu będzie znajdowała się logiczna jedynka.
+\begin{table}[h]
+\centering
+\begin{tabular}{|c|c|}
+\hline
+wejście nr 1&1\\
+wejście nr 2&0\\
+wejście nr 3&1\\
+wyjście&0\\
+\hline
+\hline
+wejście nr 1&1\\
+wejście nr 2&1\\
+wejście nr 3&1\\
+wyjście&1\\
+\hline
+\end{tabular}
+\end{table}
+\newpage
+\item Działanie bramki NAND (-AND) jest dokładnie odwrotne do działania bramki AND. Można je  opisać tak – stan niski (0) pojawia się jedynie wtedy, jeżeli na wszystkich wejściach pojawi się stan wysoki (1). Warto zaznaczyć, że bramka NAND posiada nieograniczoną liczbę wejść.
+\begin{table}[h]
+\centering
+\begin{tabular}{|c|c|}
+\hline
+wejście nr 1&1\\
+wejście nr 2&0\\
+wejście nr 3&1\\
+wyjście&1\\
+\hline
+\hline
+wejście nr 1&1\\
+wejście nr 2&1\\
+wejście nr 3&1\\
+wyjście&0\\
+\hline
+\end{tabular}
+\end{table}
+\item Na wyjściu bramki OR wynik o wartości 1 pojawi się zawsze w sytuacji, jeżeli chociaż jedno z wejść przyjmuje stan wysoki. Oznacza to również, że jeżeli pojawi się więcej niż jedno wejście o stanie wysokim – na wyjściu również pojawi się jedynka. Tak więc zero pojawi się na wyjściu wyłącznie w sytuacji, kiedy na wszystkich wejściach bramki również ustawione będzie zero.
+\begin{table}[h]
+\centering
+\begin{tabular}{|c|c|}
+\hline
+wejście nr 1&0\\
+wejście nr 2&1\\
+wejście nr 3&0\\
+wyjście&1\\
+\hline
+\hline
+wejście nr 1&1\\
+wejście nr 2&1\\
+wejście nr 3&1\\
+wyjście&1\\
+\hline
+\hline
+wejście nr 1&0\\
+wejście nr 2&0\\
+wejście nr 3&0\\
+wyjście&0\\
+\hline
+\end{tabular}
+\end{table}
+\newpage
+\item  Działanie bramki NOR można określić jako całkowitą odwrotność działania bramki O. Bramka NOR na wyjściu zawsze zwróci stan niski, z wyjątkiem sytuacji, w której wszystkie stany będą ustawione na wartość 0. 
+\begin{table}[h]
+\centering
+\begin{tabular}{|c|c|}
+\hline
+wejście nr 1&1\\
+wejście nr 2&0\\
+wejście nr 3&1\\
+wyjście&0\\
+\hline
+\hline
+wejście nr 1&0\\
+wejście nr 2&0\\
+wejście nr 3&0\\
+wyjście&1\\
+\hline
+\hline
+wejście nr 1&1\\
+wejście nr 2&0\\
+wejście nr 3&0\\
+wyjście&0\\
+\hline
+\end{tabular}
+\end{table}
+\item Bramka EXOR (Exclusive-OR, czyli “wyłącznie nie”) to jedna z wyjątkowych funkcji, które nie należą już do grupy najczęściej stosowanych – podstawowych funkcji bramek logicznych. To bramka, która na wejściu ma zawsze dokładnie dwie zmienne (jest to funkcja dwóch zmiennych). Uzyskuje wysoki stan zawsze, jeżeli tylko jeden ze stanów wejściowych jest równy logicznej jedynce. Stan niski na wyjściu pojawi się w sytuacji, jeżeli obie wartości na wejściu będą jednakowe. 
+\begin{table}[h]
+\centering
+\begin{tabular}{|c|c|}
+\hline
+wejście nr 1&1\\
+wejście nr 2&1\\
+wyjście&0\\
+\hline
+\hline
+wejście nr 1&0\\
+wejście nr 2&0\\
+wyjście&0\\
+\hline
+\hline
+wejście nr 1&1\\
+wejście nr 2&0\\
+wyjście&1\\
+\hline
+\hline
+wejście nr 1&0\\
+wejście nr 2&1\\
+wyjście&1\\
+\hline
+\end{tabular}
+\end{table}
+\end{itemize}
+\end{document}
