@@ -1,0 +1,286 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.10.18)  6 DEC 2022 15:11
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./kolokwium.tex
+(kolokwium.tex
+LaTeX2e <2022-06-01> patch level 5
+L3 programming layer <2022-08-30>
+(C:\Users\local\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(C:\Users\local\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\local\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Users\local\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(C:\Users\local\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Users\local\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count193
+\Gm@cntv=\count194
+\c@Gm@tempcnt=\count195
+\Gm@bindingoffset=\dimen139
+\Gm@wd@mp=\dimen140
+\Gm@odd@mp=\dimen141
+\Gm@even@mp=\dimen142
+\Gm@layoutwidth=\dimen143
+\Gm@layoutheight=\dimen144
+\Gm@layouthoffset=\dimen145
+\Gm@layoutvoffset=\dimen146
+\Gm@dimlist=\toks17
+
+(C:\Users\local\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\local\AppData\Local\Programs\MiKTeX\tex/latex/polski\polski.sty
+Package: polski 2021/08/25 v1.3.6 Polish language package
+
+   Switching to Polish text encoding and Polish maths fonts.
+(C:\Users\local\AppData\Local\Programs\MiKTeX\tex/latex/base\ot4enc.def
+File: ot4enc.def 2021/04/29 v2.0v Standard LaTeX file
+Now handling font encoding OT4 ...
+... no UTF-8 mapping file for font encoding OT4
+)
+LaTeX Font Info:    Trying to load font information for OT4+cmr on input line 3
+62.
+
+(C:\Users\local\AppData\Local\Programs\MiKTeX\tex/latex/polski\ot4cmr.fd
+File: ot4cmr.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
+)
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT4/cmr/bx/n on input line 362.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT4/cmss/m/n on input line 362.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT4/cmr/m/it on input line 362.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT4/cmtt/m/n on input line 362.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT4/cmss/bx/n on input line 362.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT4/cmr/bx/it on input line 362.
+LaTeX Font Info:    Encoding `OT1' has changed to `OT4' for symbol font
+(Font)              `operators' in the math version `normal' on input line 362.
+
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT4/cmr/m/n on input line 362.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/plm/m/it on input line 362.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/plsy/m/n on input line 362.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/plex/m/n on input line 362.
+LaTeX Font Info:    Encoding `OT1' has changed to `OT4' for symbol font
+(Font)              `operators' in the math version `bold' on input line 362.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT4/cmr/bx/n on input line 362.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/plm/b/it on input line 362.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/plsy/b/n on input line 362.
+)
+(C:\Users\local\AppData\Local\Programs\MiKTeX\tex/latex/ragged2e\ragged2e.sty
+Package: ragged2e 2021/12/15 v3.1 ragged2e Package
+
+(C:\Users\local\AppData\Local\Programs\MiKTeX\tex/latex/footmisc\footmisc.sty
+Package: footmisc 2022/03/08 v6.0d a miscellany of footnote facilities
+\FN@temptoken=\toks18
+\footnotemargin=\dimen147
+\@outputbox@depth=\dimen148
+Package footmisc Info: Declaring symbol style bringhurst on input line 695.
+Package footmisc Info: Declaring symbol style chicago on input line 703.
+Package footmisc Info: Declaring symbol style wiley on input line 712.
+Package footmisc Info: Declaring symbol style lamport-robust on input line 723.
+
+Package footmisc Info: Declaring symbol style lamport* on input line 743.
+Package footmisc Info: Declaring symbol style lamport*-robust on input line 764
+.
+)
+\CenteringLeftskip=\skip49
+\RaggedLeftLeftskip=\skip50
+\RaggedRightLeftskip=\skip51
+\CenteringRightskip=\skip52
+\RaggedLeftRightskip=\skip53
+\RaggedRightRightskip=\skip54
+\CenteringParfillskip=\skip55
+\RaggedLeftParfillskip=\skip56
+\RaggedRightParfillskip=\skip57
+\JustifyingParfillskip=\skip58
+\CenteringParindent=\skip59
+\RaggedLeftParindent=\skip60
+\RaggedRightParindent=\skip61
+\JustifyingParindent=\skip62
+) (C:\Users\local\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+)
+(C:\Users\local\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2022-08-30 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count196
+\l__pdf_internal_box=\box51
+) (kolokwium.aux)
+\openout1 = `kolokwium.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT4/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(71.13188pt, 469.47049pt, 56.9055pt)
+* v-part:(T,H,B)=(99.58464pt, 631.65118pt, 113.81102pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=469.47049pt
+* \textheight=631.65118pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-9.68535pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package ragged2e Info: ABD: executing \RaggedRight on input line 9.
+LaTeX Font Info:    Trying to load font information for OML+plm on input line 1
+0.
+(C:\Users\local\AppData\Local\Programs\MiKTeX\tex/latex/polski\omlplm.fd
+File: omlplm.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
+)
+LaTeX Font Info:    Trying to load font information for OMS+plsy on input line 
+10.
+
+(C:\Users\local\AppData\Local\Programs\MiKTeX\tex/latex/polski\omsplsy.fd
+File: omsplsy.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
+)
+LaTeX Font Info:    Trying to load font information for OMX+plex on input line 
+10.
+
+(C:\Users\local\AppData\Local\Programs\MiKTeX\tex/latex/polski\omxplex.fd
+File: omxplex.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
+)
+LaTeX Font Info:    External font `plex10' loaded for size
+(Font)              <14.4> on input line 10.
+LaTeX Font Info:    External font `plex10' loaded for size
+(Font)              <10> on input line 10.
+LaTeX Font Info:    External font `plex10' loaded for size
+(Font)              <7> on input line 10.
+
+[1
+
+{C:/Users/local/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+LaTeX Font Info:    External font `plex10' loaded for size
+(Font)              <12> on input line 30.
+LaTeX Font Info:    External font `plex10' loaded for size
+(Font)              <8> on input line 30.
+LaTeX Font Info:    External font `plex10' loaded for size
+(Font)              <6> on input line 30.
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--49
+
+ []
+
+[1]
+Underfull \hbox (badness 10000) in paragraph at lines 50--52
+
+ []
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 78--93
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--93
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--93
+
+ []
+
+[3] [4] (kolokwium.aux) ) 
+Here is how much of TeX's memory you used:
+ 1597 strings out of 475389
+ 28205 string characters out of 2776999
+ 380328 words of memory out of 3000000
+ 22988 multiletter control sequences out of 15000+600000
+ 480098 words of font info for 55 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 55i,9n,62p,822b,226s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ <C:\Users\local\AppData\Local\MiKTeX\fonts/pk/ljfour/
+jknappen/ec/dpi600\tcrm1200.pk>{C:/Users/local/AppData/Local/Programs/MiKTeX/fo
+nts/enc/dvips/pl/plms.enc}{C:/Users/local/AppData/Local/Programs/MiKTeX/fonts/e
+nc/dvips/pl/plrm.enc}{C:/Users/local/AppData/Local/Programs/MiKTeX/fonts/enc/dv
+ips/pl/plmi.enc}{C:/Users/local/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/p
+l/plit.enc}<C:/Users/local/AppData/Local/Programs/MiKTeX/fonts/type1/public/pl/
+plbx12.pfb><C:/Users/local/AppData/Local/Programs/MiKTeX/fonts/type1/public/pl/
+plmi12.pfb><C:/Users/local/AppData/Local/Programs/MiKTeX/fonts/type1/public/pl/
+plmi8.pfb><C:/Users/local/AppData/Local/Programs/MiKTeX/fonts/type1/public/pl/p
+lr12.pfb><C:/Users/local/AppData/Local/Programs/MiKTeX/fonts/type1/public/pl/pl
+r17.pfb><C:/Users/local/AppData/Local/Programs/MiKTeX/fonts/type1/public/pl/plr
+8.pfb><C:/Users/local/AppData/Local/Programs/MiKTeX/fonts/type1/public/pl/plsy1
+0.pfb><C:/Users/local/AppData/Local/Programs/MiKTeX/fonts/type1/public/pl/plsy8
+.pfb><C:/Users/local/AppData/Local/Programs/MiKTeX/fonts/type1/public/pl/plti12
+.pfb>
+Output written on kolokwium.pdf (5 pages, 78886 bytes).
+PDF statistics:
+ 73 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
